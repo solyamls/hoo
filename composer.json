@@ -2,7 +2,7 @@
     "name": "solyamls/hoo",
     "description": "simple progress bar",
     "require": {
-        "php": "^7.0.*",
+        "php": "^7.0",
         "topthink/framework": "^6.0.0"
     },
     "license": "MIT",
@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Solyamls\\Hoo": "src/"
+            "Solyamls\\Hoo\\": "src/"
         }
     },
     "extra": {
