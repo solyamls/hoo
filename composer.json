@@ -1,0 +1,27 @@
+{
+    "name": "solyamls/hoo",
+    "description": "simple progress bar",
+    "require": {
+        "php": "^7.0.*",
+        "topthink/framework": "^6.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "solyamls",
+            "email": "1317328514@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Solyamls\\Hoo": "src/"
+        }
+    },
+    "extra": {
+        "think":{
+            "config":{
+                "hoho": "config/"
+            }
+        }
+    }
+}
