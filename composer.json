@@ -20,7 +20,7 @@
     "extra": {
         "think":{
             "config":{
-                "hoho": "config/"
+                "hoo": "src/config.php"
             }
         }
     }
